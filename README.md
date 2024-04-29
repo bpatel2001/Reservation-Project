@@ -23,3 +23,5 @@ cd ..
 cd client
 npm run dev
 ```
+
+Go to http://localhost:5173/ to view the website
